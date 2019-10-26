@@ -14,7 +14,7 @@ const ConverterMixin = {
       },
       initialCurrencies: ['IDR', 'EUR', 'GBP', 'SGD'],
       AllCurrencies: [],
-      OnEdit: true,
+      OnEdit: false,
       selectedCurrency: ''
     }
   },
