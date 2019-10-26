@@ -1,6 +1,11 @@
 <template>
   <div>
     <nuxt />
+    <footer class="mt-3 mb-3 py-3">
+      <span class="d-block text-center text-light">
+        by <a class="text-light" href="mailto:me@oktaviardi.com">me@oktaviardi.com</a> | <a class=" text-light" href="https://www.linkedin.com/in/oktaviardi/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+      </span>
+    </footer>
   </div>
 </template>
 
