@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "^5.8.0",
     "@nuxtjs/robots": "^2.4.2",
     "numeral": "^2.0.6",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "vue-numerals": "^3.0.4",
     "vue-numeric": "^2.3.0",
     "vuency": "^0.1.7",
